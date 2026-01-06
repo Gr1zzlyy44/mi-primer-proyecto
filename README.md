@@ -1,13 +1,15 @@
 # Stock Manager (Python)
 
-Simple Python script to manage product stock.
+A simple console (CLI) app to manage product stock.  
+You can add items, remove items (sales/dispatch), and view current stock.
 
 ## Features
-- Add products and quantities
-- Display current stock
-- Uses basic Python functions and dictionaries
+- Add product and quantity
+- Remove product and quantity (prevents negative stock)
+- Shows stock ordered alphabetically
+- Simple menu-based interface
 
-## Technologies
+## Tech
 - Python 3
 
 ## How to run
